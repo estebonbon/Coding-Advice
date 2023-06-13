@@ -241,7 +241,7 @@ header h2 {
     
 
 
-/****** Contact Styles ******/
+/****** FOOTER Contact Styles ******/
 
 footer {
     background-color: #e9f8f9;
@@ -326,7 +326,7 @@ footer {
     width: 1200px;
     margin: 0;
     padding-top: 0;
-    padding-left:500px;
+    text-align: center;
 }
 
 
