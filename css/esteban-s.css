@@ -66,7 +66,7 @@ header h2 {
                                    /****** TOP THREE******/
 #top-three {
     background-color: #000000;
-    background-image: url('../pictures/momentum.png'), url('../pictures/swings.png'), url('../pictures/getting-curious.png');
+    background-image: url('../pictures/climb.png'), url('../pictures/swings.png'), url('../pictures/getting-curious.png');
     background-position: left, center, right; 
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-size: 415px 500px, 440px 500px, 425px 500px;
