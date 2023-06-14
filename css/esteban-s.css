@@ -80,6 +80,10 @@ header h2 {
     margin: 0 auto;  
 }
 
+#top-three ul {
+    list-style-type: none; 
+}
+
 #top-three ul li a {
     text-decoration: wavy;
     font-size: 50px;
@@ -90,7 +94,7 @@ header h2 {
 
 #top-three ul li #swing {
     float: left;
-    padding-top: 345px;
+    padding-top: 365px;
     padding-left: 100px;
 }
 
@@ -101,7 +105,7 @@ header h2 {
     
 #top-three ul li #curious {
     float: right;
-    margin-top: 330px; 
+    margin-top: 365px; 
 }
 
                                 /****** THE MISSION ******/
